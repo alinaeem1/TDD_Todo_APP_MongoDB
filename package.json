@@ -1,0 +1,30 @@
+{
+  "name": "step1",
+  "version": "1.0.0",
+  "description": "Todo App By Eta Team",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alinaeem1"
+  },
+  "keywords": [
+    "Todo",
+    "TDD",
+    "App"
+  ],
+  "author": "Ali Naeem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.15"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "method-override": "^3.0.0",
+    "morgan": "^1.9.1"
+  }
+}
